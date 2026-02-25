@@ -70,8 +70,18 @@ Google Sheets Node
 {match the llm output in columns}
 Convert to File (CSV)
 Gmail Node
-Execute
+Execute\
+
+FINAL WORKFLOW:
+
+![workflow](assets/n8n_workflow.png)
 
 Scraped data is classified
+Sheets is updated.
+
+SHEET DATA:
+
+![sheet](assets/sheet_data.png)
+
 MongoDB is updated
 Daily CSV email is sent
